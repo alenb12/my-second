@@ -1,3 +1,0 @@
-My first locally added txt file.
-
-Let's add it to GitHub..
